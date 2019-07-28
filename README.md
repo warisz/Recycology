@@ -4,12 +4,13 @@ An Android app that can scan barcodes of products and output whether they are re
 
 Screenshots:
 
-![](Images/Splashscreen.png | width=100)
+![Screenshot](Images/Splashscreen.png)
+<img src="Images/Splashscreen.png" width="40%">
 
-![](Images/Scanner.png | width=100)
+![Screenshot](Images/Scanner.png | width=100)
 
-![](Images/Info.png | width=100)
+![Screenshot](Images/Info.png | width=100)
 
-![](Images/Map1.png | width=100)
+![Screenshot](Images/Map1.png | width=100)
 
-![](Images/Map2.png | width=100)
+![Screenshot](Images/Map2.png | width=100)
